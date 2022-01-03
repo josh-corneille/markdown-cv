@@ -20,8 +20,8 @@ Minor in Management
 
 ## Experience
 
-### Asset Health
-<div class="date">2019-Present</div>
+**Asset Health**
+`2019-Present`
 
 - Maintained and configured client websites, working with Account Managers to implement custom requests within HTML/CSS, Javascript, and PHP
   - Consulted with non-technical team members on implementing the requirements, giving technical insight into how features could be implemented, and if not, the limitations, as well as estimated turn around time
