@@ -1,91 +1,37 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Josh Corneille
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="me@josh-corneille.com">me@josh-corneille.com</a>
+| <a href="http://www.josh-corneille.com">My web page</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
+**Oakland University**
+`2016-2019`
+M.S. Courses in Computer Science
 
-`1654-1660`
-__The King's School, Grantham.__
+**Grand Valley State University**
+`2009-2012`
+B.A. in Film/Video
+Minor in Management
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Experience
 
-- Sizar
+### Asset Health
+<div class="date">2019-Present</div>
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- Maintained and configured client websites, working with Account Managers to implement custom requests within HTML/CSS, Javascript, and PHP
+  - Consulted with non-technical team members on implementing the requirements, giving technical insight into how features could be implemented, and if not, the limitations, as well as estimated turn around time
+- Helped developers learn and use Git when the company switched from SVN
+  - Maintained the repositories, handling pull requests, reverting bad merges or helping resolve merge conflicts, and performing merges across multiple feature branches
+- Took on the role of helping other developer's set up their local development environments in Vagrant
+  - Created and cleaned up outdated documentation
+  - Helped new employees in resolving issues when setting up their environment
+  - Worked with senior devs on streamlining the setup process and was responsible for getting the team up to date in the process along with subsequent updates
+- Wrote thorough documentation in the team's wiki, sharing knowledge of undocumented parts of the codebase and implementing new features
+- PHP7 Upgrade
+  - Using code linters and static analysis tools in PHPStorm, identified deprecated code.
+  - Refactored a large part of the codebase, which lacked tests, to work with PHP 7.1
